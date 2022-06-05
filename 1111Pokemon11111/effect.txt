@@ -1,0 +1,15 @@
+empoisonnement
+#
+gel
+#
+brulure
+#
+paralysie
+#
+sommeil
+#
+confus
+#
+aucun
+
+
